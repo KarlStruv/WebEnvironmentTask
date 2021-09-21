@@ -1,0 +1,15 @@
+*{
+    padding: 10px;
+}
+input{
+    position: absolute;
+    left: 150px;
+}
+.title{
+    margin-bottom: 50px;
+}
+
+.calendarButton{
+    position: absolute;
+    left: 1000px;
+}
